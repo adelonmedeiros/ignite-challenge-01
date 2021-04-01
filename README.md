@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h1>Desafio 01 Trilha React - Ignite Rockeatseat<h1/>
+    <h1>Desafio 01 Trilha React - Ignite Rocketseat<h1/>
 </h1>
 
 ## 💻 Sobre o desafio
